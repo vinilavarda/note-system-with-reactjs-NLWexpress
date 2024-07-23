@@ -19,4 +19,4 @@ This project was developed with these technologies:
 - sonner
 - lucide-react
 
-To install and test this project, git clone this repository, delete "Node modules" folder and type "npm install" in terminal. You need to have installed node in your computer to run this project.
+To install and test this project, git clone this repository, delete "Node modules" folder and type "npm install" in terminal. You need to have installed node in your computer to run this project. After all set, run "npm run dev" to start the project.
